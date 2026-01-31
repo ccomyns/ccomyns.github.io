@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-articles",
-          title: "articles",
+  },{id: "nav-blog",
+          title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-foundational-llm-research-amp-the-state-of-ai-generated-software",
+        
+          title: "Foundational LLM Research &amp; the State of AI-Generated Software",
+        
+        description: "An exploration of foundational LLM research and the current state of AI-generated software development",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/foundational-llm-research/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
