@@ -5,6 +5,7 @@ date: 2026-01-31 12:00:00
 description: An exploration of foundational LLM research and the current state of AI-generated software development
 tags: AI LLM software-development machine-learning
 categories: research
+thumbnail: assets/img/llm-research-thumbnail.png
 ---
 
 ## Overview
