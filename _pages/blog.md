@@ -11,7 +11,11 @@ nav_order: 1
   <ul class="post-list">
     {% for post in site.posts %}
     <li>
+      {% if post.pdf_link %}
+      <a href="{{ post.pdf_link | relative_url }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block;">
+      {% else %}
       <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit; display: block;">
+      {% endif %}
         {% if post.thumbnail %}
         <div class="row">
           <div class="col-sm-3">

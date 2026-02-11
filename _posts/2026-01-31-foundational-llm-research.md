@@ -6,6 +6,7 @@ description: An exploration of foundational LLM research and the current state o
 tags: AI LLM software-development machine-learning
 categories: research
 thumbnail: assets/img/llm-research-thumbnail.png
+pdf_link: /assets/pdf/foundational-llm-research.pdf
 ---
 
 ## Overview
