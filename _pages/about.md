@@ -41,7 +41,7 @@ Long Context Reasoning in LLMs @ UVA (Li Research Group)
 ---
 President of Phi Kappa Psi @UVA  
 Software Engineering Intern @lockchain.ai  
-LLM Interpretability Researcher @UVA (Li Research Group)
+LLM Interpretability @UVA (Li Research Group)
 
 
 ## 2024
@@ -58,9 +58,9 @@ Joined the Alternative Investment Fund (AIF) @ UVA
 
 ## 2022
 ---
-tRNA Engineering Researcher @ Yale (Soll Research Group)
+tRNA Engineering @ Yale (Soll Research Group)
 
 
 ## 2021
 ---
-Computational Biology Researcher @Brown (Rubenstein Research Group)
+Computational Biology @Brown (Rubenstein Research Group)
