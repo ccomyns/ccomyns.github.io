@@ -12,7 +12,7 @@ nav_order: 1
     {% for post in site.posts %}
     <li>
       {% if post.pdf_link %}
-      <a href="{{ post.pdf_link | relative_url }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; display: block;">
+      <a href="{{ post.pdf_link }}" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;" style="text-decoration: none; color: inherit; display: block; cursor: pointer;">
       {% else %}
       <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit; display: block;">
       {% endif %}
