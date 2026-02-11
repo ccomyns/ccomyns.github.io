@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -31,36 +31,44 @@ Double Majoring in Math and Computer Science @UVA
 GPA: 3.95  
 SAT: 1560
 
+<div style="max-width: 60%;">
 
-## 2026
----
+<h4 style="margin-bottom: 0;">2026</h4>
+<hr style="margin-top: 4px; margin-bottom: 8px;">
 Long Context Reasoning in LLMs @ UVA (Li Research Group)
 
+<br>
 
-## 2025
----
+<h4 style="margin-bottom: 0;">2025</h4>
+<hr style="margin-top: 4px; margin-bottom: 8px;">
 President of Phi Kappa Psi @UVA  
 Software Engineering Intern @lockchain.ai  
 LLM Interpretability @UVA (Li Research Group)
 
+<br>
 
-## 2024
----
+<h4 style="margin-bottom: 0;">2024</h4>
+<hr style="margin-top: 4px; margin-bottom: 8px;">
 Healthcare Coverage Group @AIF  
 Business Development Intern @Cyera
 
+<br>
 
-## 2023
----
+<h4 style="margin-bottom: 0;">2023</h4>
+<hr style="margin-top: 4px; margin-bottom: 8px;">
 Graduated from Phillips Academy Andover  
 Joined the Alternative Investment Fund (AIF) @ UVA
 
+<br>
 
-## 2022
----
+<h4 style="margin-bottom: 0;">2022</h4>
+<hr style="margin-top: 4px; margin-bottom: 8px;">
 tRNA Engineering @ Yale (Soll Research Group)
 
+<br>
 
-## 2021
----
+<h4 style="margin-bottom: 0;">2021</h4>
+<hr style="margin-top: 4px; margin-bottom: 8px;">
 Computational Biology @Brown (Rubenstein Research Group)
+
+</div>
