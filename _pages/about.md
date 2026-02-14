@@ -8,13 +8,10 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -37,7 +34,7 @@ SAT: 1560
 <hr style="margin-top: 4px; margin-bottom: 8px;">
 Long Context Reasoning in LLMs @ UVA (Li Research Group)
 
-<br>
+<br><br><br>
 
 <h4 style="margin-bottom: 0;">2025</h4>
 <hr style="margin-top: 4px; margin-bottom: 8px;">
@@ -45,27 +42,27 @@ President of Phi Kappa Psi @UVA
 Software Engineering Intern @lockchain.ai  
 LLM Interpretability @UVA (Li Research Group)
 
-<br>
+<br><br><br>
 
 <h4 style="margin-bottom: 0;">2024</h4>
 <hr style="margin-top: 4px; margin-bottom: 8px;">
 Healthcare Coverage Group @AIF  
 Business Development Intern @Cyera
 
-<br>
+<br><br><br>
 
 <h4 style="margin-bottom: 0;">2023</h4>
 <hr style="margin-top: 4px; margin-bottom: 8px;">
 Graduated from Phillips Academy Andover  
 Joined the Alternative Investment Fund (AIF) @ UVA
 
-<br>
+<br><br><br>
 
 <h4 style="margin-bottom: 0;">2022</h4>
 <hr style="margin-top: 4px; margin-bottom: 8px;">
 tRNA Engineering @ Yale (Soll Research Group)
 
-<br>
+<br><br><br>
 
 <h4 style="margin-bottom: 0;">2021</h4>
 <hr style="margin-top: 4px; margin-bottom: 8px;">
