@@ -24,8 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Double Majoring in Math and Computer Science @UVA  
-GPA: 3.95  
+Double Majoring in Math and Computer Science @UVA<br>
+GPA: 3.95<br>
 SAT: 1560
 
 <div style="max-width: 60%;">
@@ -38,22 +38,22 @@ Long Context Reasoning in LLMs @ UVA (Li Research Group)
 
 <h4 style="margin-bottom: 0;">2025</h4>
 <hr style="margin-top: 4px; margin-bottom: 8px;">
-President of Phi Kappa Psi @UVA  
-Software Engineering Intern @lockchain.ai  
+President of Phi Kappa Psi @UVA<br>
+Software Engineering Intern @lockchain.ai<br>
 LLM Interpretability @UVA (Li Research Group)
 
 <br><br><br>
 
 <h4 style="margin-bottom: 0;">2024</h4>
 <hr style="margin-top: 4px; margin-bottom: 8px;">
-Healthcare Coverage Group @AIF  
+Healthcare Coverage Group @AIF<br>
 Business Development Intern @Cyera
 
 <br><br><br>
 
 <h4 style="margin-bottom: 0;">2023</h4>
 <hr style="margin-top: 4px; margin-bottom: 8px;">
-Graduated from Phillips Academy Andover  
+Graduated from Phillips Academy Andover<br>
 Joined the Alternative Investment Fund (AIF) @ UVA
 
 <br><br><br>
