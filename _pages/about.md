@@ -53,7 +53,7 @@ Business Development Intern @Cyera
 
 <h4 style="margin-bottom: 0;">2023</h4>
 <hr style="margin-top: 4px; margin-bottom: 8px;">
-Graduated from Phillips Academy Andover<br>
+Graduated from Phillips Academy Andover (Top 10%) <br>
 Joined the Alternative Investment Fund (AIF) @ UVA
 
 <br><br><br>

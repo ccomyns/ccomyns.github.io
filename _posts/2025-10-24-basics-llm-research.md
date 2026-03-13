@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Foundational LLM Research & the State of AI-Generated Software
-date: 2026-01-31 12:00:00
+title: Basics of LLM Research and Agentic Applications
+date: 2025-10-24 12:00:00
 description: An exploration of foundational LLM research and the current state of AI-generated software development
 tags: AI LLM software-development machine-learning
 categories: research
