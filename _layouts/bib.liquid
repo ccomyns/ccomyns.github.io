@@ -100,19 +100,8 @@
       {{ entry.note | strip }}
     </div>
 
-    <!-- Links/Buttons -->
-    <div class="links">
-      {% if entry.award %}
-        <span class="award btn btn-sm z-depth-0">
-          {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
-        </span>
-      {% endif %}
-      {% if entry.abstract %}
-        <span class="abstract btn btn-sm z-depth-0" role="button" onclick="event.stopPropagation(); event.preventDefault(); $(this).parent().parent().find('.abstract.hidden').toggle();">Abs</span>
-      {% endif %}
-      {% if entry.bibtex_show %}
-        <span class="bibtex btn btn-sm z-depth-0" role="button" onclick="event.stopPropagation(); event.preventDefault(); $(this).parent().parent().find('.bibtex.hidden').toggle();">Bib</span>
-      {% endif %}
+    <!-- Links/Buttons (hidden) -->
+    <div class="links" style="display: none;">
     </div>
 
     {% if entry.award %}
