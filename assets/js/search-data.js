@@ -51,6 +51,11 @@ ninja.data = [{
           description: "A financial intelligence studio built with agentic coding tools",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-research-catalyst",
+          title: 'Research Catalyst',
+          description: "A dashboard for browsing conference publications, ArXiv papers, and open source AI projects",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
